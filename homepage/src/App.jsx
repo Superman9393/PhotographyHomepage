@@ -2,7 +2,9 @@ import React from 'react'
 
 function App() {
   return (
-    <div>App</div>
+    <div>
+        So this is some app information
+    </div>
   )
 }
 
