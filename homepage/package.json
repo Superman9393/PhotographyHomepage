@@ -1,6 +1,6 @@
-{
+{  "hompage":"Superman9393.github.io/PhotographyHomepage",
   "name": "homepage",
-  "hompage":"Superman9393.github.io/PhotographyHomepage",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
