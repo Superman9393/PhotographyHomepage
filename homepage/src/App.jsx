@@ -1,10 +1,10 @@
 import React from 'react'
-
+import Nav from './components/nav/Nav'
 function App() {
   return (
-    <div>
-        So this is some app information
-    </div>
+    <>
+    <Nav/>
+    </>
   )
 }
 
